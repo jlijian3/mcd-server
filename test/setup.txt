@@ -1,0 +1,13 @@
+PidFile=./mcd-srv.pid
+
+ListenPort=40009
+
+SupportIPV6=0
+
+MaxConns=1024
+
+MaxCmdThreadNum=10
+
+ListenQueSize=1024
+
+DebugLevel=0
